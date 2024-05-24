@@ -2,7 +2,7 @@ export default function Page() {
     return (
         <main id="content-container">
             <h1 className="text-5xl lg:text-8xl">Projects</h1>
-            <p>Here are some projects I've worked on</p>
+            <p>Here are some projects I&apos;ve worked on</p>
             <article>
                 <h2>1on1</h2>
                 <p>Created using: Django, React</p>
@@ -27,8 +27,8 @@ export default function Page() {
             <article>
                 <h2>Personal Website</h2>
                 <p>Created using: React</p>
-                <p>The website you're looking at right now. A simple website I created to serve as a portfolio built using Next.js.</p>
-                <p>Through this project I gained experience working with new frameworks for React (Next.js) and for CSS (Tailwind), as well as working with TypeScript for the first time.</p>
+                <p>The website you&apos;re looking at right now. A simple website I created to serve as a portfolio built using Next.js.</p>
+                <p>Through this project I gained experience working with new frameworks for React (Next.js) and for CSS (Tailwind), as well as working with TypeScript for the first time. I also gained experience deploying a website through this project.</p>
             </article>
             
         </main>
